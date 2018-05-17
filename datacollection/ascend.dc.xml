@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<datacollection-group name="Ascend">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="Ascend">
 
     <!-- Ascend mibs -->
     <group name="ascend-call" ifType="ignore">
